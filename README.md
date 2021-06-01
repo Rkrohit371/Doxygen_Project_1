@@ -1,4 +1,4 @@
 @LTTS main page
 @ author Rrohit
 
-### This project is to demostrate Doxygen and its usage.
+### This project is to demonstrate Doxygen and its usage.
